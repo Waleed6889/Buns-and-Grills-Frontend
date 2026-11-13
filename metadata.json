@@ -1,0 +1,6 @@
+{
+  "name": "Buns & Grills – Smash & Zinger Burgers Karachi",
+  "description": "Order freshly smashed 100% halal beef burgers, crispy zinger burgers, loaded fries, and family deals online for fast delivery or pickup in Karachi, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
